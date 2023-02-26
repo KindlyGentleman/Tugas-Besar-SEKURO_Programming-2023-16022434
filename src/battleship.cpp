@@ -166,7 +166,7 @@ int main() {
       int newX = enemies[i].getX() + dx;
       int newY = enemies[i].getY() + dy;
       if (newX >= 0 && newX <= 10 && newY >= 0 && newY <= 10) {
-        enemies[i].move(dx, dy);
+        enemies[i].move(dx,dy);
       }
     }
   }
