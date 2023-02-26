@@ -279,22 +279,22 @@ return 0;
 
 ## Test Case
 ### Menu Utama
-![Tampilan Menu](doc/main_menu.png)
+![Tampilan Menu](main_menu.png)
 
 ### Stay Command
-![Stay Command Illustration](doc/stay_command.png)
+![Stay Command Illustration](stay_command.png)
 
 ### Attack Command
-![Attack Command Illustration](doc/attack_command.png)
+![Attack Command Illustration](attack_command.png)
 
 ### Attack Out of Range
-![Attack Command Out of Range Illustration](doc/attack_out_of_range.png)
+![Attack Command Out of Range Illustration](attack_out_of_range.png)
 
 ### Move Command
-![Move Command Illustration](doc/move_command.png)
+![Move Command Illustration](move_command.png)
 
 ### Move Command Out of Bounds
-![Move Command Out of Bounds Illustration](doc/out_of_bounds.png)
+![Move Command Out of Bounds Illustration](out_of_bounds.png)
 
 ### Wrong Input
-![Wrong Input Illustration](doc/wrong_input.png)
+![Wrong Input Illustration](wrong_input.png)
